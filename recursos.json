@@ -2,318 +2,318 @@
   "equipos": [
     {
       "nombre": "Alcala",
-      "imagenResId": 2131165343,
-      "cancionResId": 2131230849,
-      "videoResId": 2131230850
+      "imagenResId": "alcala",
+      "cancionResId": "alcala",
+      "videoResId": "videoalcala"
     },
     {
       "nombre": "Arsenal",
-      "imagenResId": 2131165344,
-      "cancionResId": 2131230851,
-      "videoResId": 2131230852
+      "imagenResId": "arsenal",
+      "cancionResId": "arsenal",
+      "videoResId": "videoarsenal"
     },
     {
       "nombre": "Milan",
-      "imagenResId": 2131165345,
-      "cancionResId": 2131230853,
-      "videoResId": 2131230854
+      "imagenResId": "milan",
+      "cancionResId": "milan",
+      "videoResId": "videomilan"
     },
     {
       "nombre": "Real Madrid",
-      "imagenResId": 2131165346,
-      "cancionResId": 2131230855,
-      "videoResId": 2131230856
+      "imagenResId": "realmadrid",
+      "cancionResId": "rm",
+      "videoResId": "videorm"
     },
     {
       "nombre": "Roma",
-      "imagenResId": 2131165347,
-      "cancionResId": 2131230857,
-      "videoResId": 2131230858
+      "imagenResId": "roma",
+      "cancionResId": "roma",
+      "videoResId": "videoroma"
     }
   ],
   "jugadores": [
     {
-      "urlImg": 2131165348,
+      "urlImg": "aaron",
       "monedas": 10,
       "media": 82,
       "posicion": "Portero",
       "nombre": "Ramsdale"
     },
     {
-      "urlImg": 2131165349,
+      "urlImg": "allison",
       "monedas": 40,
       "media": 88,
       "posicion": "Portero",
       "nombre": "Allison"
     },
     {
-      "urlImg": 2131165350,
+      "urlImg": "curtois",
       "monedas": 50,
       "media": 90,
       "posicion": "Portero",
       "nombre": "Curtois"
     },
     {
-      "urlImg": 2131165351,
+      "urlImg": "donaruma",
       "monedas": 18,
       "media": 86,
       "posicion": "Portero",
       "nombre": "Gigi"
     },
     {
-      "urlImg": 2131165352,
+      "urlImg": "ederson",
       "monedas": 21,
       "media": 85,
       "posicion": "Portero",
       "nombre": "Ederson"
     },
     {
-      "urlImg": 2131165353,
+      "urlImg": "emiliano",
       "monedas": 12,
       "media": 82,
       "posicion": "Portero",
       "nombre": "Dibu"
     },
     {
-      "urlImg": 2131165354,
+      "urlImg": "maignan",
       "monedas": 8,
       "media": 81,
       "posicion": "Portero",
       "nombre": "Maignan"
     },
     {
-      "urlImg": 2131165355,
+      "urlImg": "oblak",
       "monedas": 36,
       "media": 89,
       "posicion": "Portero",
       "nombre": "Oblak"
     },
     {
-      "urlImg": 2131165356,
+      "urlImg": "onana",
       "monedas": 14,
       "media": 80,
       "posicion": "Portero",
       "nombre": "Onana"
     },
     {
-      "urlImg": 2131165357,
+      "urlImg": "terstegen",
       "monedas": 40,
       "media": 88,
       "posicion": "Portero",
       "nombre": "Ter Stegen"
     },
     {
-      "urlImg": 2131165358,
+      "urlImg": "alaba",
       "monedas": 16,
       "media": 83,
       "posicion": "Defensa",
       "nombre": "Alaba"
     },
     {
-      "urlImg": 2131165359,
+      "urlImg": "trent",
       "monedas": 33,
       "media": 87,
       "posicion": "Defensa",
       "nombre": "Trent"
     },
     {
-      "urlImg": 2131165360,
+      "urlImg": "asencio",
       "monedas": 11,
       "media": 79,
       "posicion": "Defensa",
       "nombre": "Asencio"
     },
     {
-      "urlImg": 2131165361,
+      "urlImg": "cacncelo",
       "monedas": 7,
       "media": 77,
       "posicion": "Defensa",
       "nombre": "Cancelo"
     },
     {
-      "urlImg": 2131165362,
+      "urlImg": "davies",
       "monedas": 23,
       "media": 85,
       "posicion": "Defensa",
       "nombre": "Davies"
     },
     {
-      "urlImg": 2131165363,
+      "urlImg": "marqunhos",
       "monedas": 15,
       "media": 85,
       "posicion": "Defensa",
       "nombre": "Marquinhos"
     },
     {
-      "urlImg": 2131165364,
+      "urlImg": "militao",
       "monedas": 18,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Militao"
     },
     {
-      "urlImg": 2131165365,
+      "urlImg": "ruben",
       "monedas": 21,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Dias"
     },
     {
-      "urlImg": 2131165366,
+      "urlImg": "rudiger",
       "monedas": 33,
       "media": 88,
       "posicion": "Defensa",
       "nombre": "Rudiger"
     },
     {
-      "urlImg": 2131165367,
+      "urlImg": "theo",
       "monedas": 29,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Theo"
     },
     {
-      "urlImg": 2131165368,
+      "urlImg": "virgil",
       "monedas": 35,
       "media": 89,
       "posicion": "Defensa",
       "nombre": "Van Dijk"
     },
     {
-      "urlImg": 2131165369,
+      "urlImg": "bellingham",
       "monedas": 45,
       "media": 90,
       "posicion": "Mediapunta",
       "nombre": "Bellingham"
     },
     {
-      "urlImg": 2131165370,
+      "urlImg": "fernandes",
       "monedas": 25,
       "media": 84,
       "posicion": "Mediapunta",
       "nombre": "Bruno"
     },
     {
-      "urlImg": 2131165371,
+      "urlImg": "debruyne",
       "monedas": 20,
       "media": 88,
       "posicion": "Mediapunta",
       "nombre": "De Bruyne"
     },
     {
-      "urlImg": 2131165372,
+      "urlImg": "pedri",
       "monedas": 47,
       "media": 89,
       "posicion": "Mediocampista",
       "nombre": "Pedri"
     },
     {
-      "urlImg": 2131165373,
+      "urlImg": "kimmich",
       "monedas": 36,
       "media": 87,
       "posicion": "Mediocampista",
       "nombre": "Kimmich"
     },
     {
-      "urlImg": 2131165374,
+      "urlImg": "modric",
       "monedas": 12,
       "media": 85,
       "posicion": "Mediocampista",
       "nombre": "Modric"
     },
     {
-      "urlImg": 2131165375,
+      "urlImg": "odergard",
       "monedas": 21,
       "media": 86,
       "posicion": "Mediapunta",
       "nombre": "Odegaard"
     },
     {
-      "urlImg": 2131165376,
+      "urlImg": "rice",
       "monedas": 32,
       "media": 87,
       "posicion": "Mediocampista",
       "nombre": "Rice"
     },
     {
-      "urlImg": 2131165377,
+      "urlImg": "rodri",
       "monedas": 50,
       "media": 90,
       "posicion": "Mediocampista",
       "nombre": "Rodri"
     },
     {
-      "urlImg": 2131165378,
+      "urlImg": "valverde",
       "monedas": 44,
       "media": 89,
       "posicion": "Mediocampista",
       "nombre": "Valverde"
     },
     {
-      "urlImg": 2131165379,
+      "urlImg": "benzema",
       "monedas": 10,
       "media": 83,
       "posicion": "Delantero",
       "nombre": "Benzema"
     },
     {
-      "urlImg": 2131165380,
+      "urlImg": "cr7",
       "monedas": 18,
       "media": 86,
       "posicion": "Delantero",
       "nombre": "Cristiano"
     },
     {
-      "urlImg": 2131165381,
+      "urlImg": "messi",
       "monedas": 15,
       "media": 84,
       "posicion": "Delantero",
       "nombre": "Messi"
     },
     {
-      "urlImg": 2131165382,
+      "urlImg": "kane",
       "monedas": 26,
       "media": 89,
       "posicion": "Delantero",
       "nombre": "Kane"
     },
     {
-      "urlImg": 2131165383,
+      "urlImg": "oshimen",
       "monedas": 29,
       "media": 85,
       "posicion": "Delantero",
       "nombre": "Oshimen"
     },
     {
-      "urlImg": 2131165384,
+      "urlImg": "mbappe",
       "monedas": 70,
       "media": 92,
       "posicion": "Delantero",
       "nombre": "Mbappe"
     },
     {
-      "urlImg": 2131165385,
+      "urlImg": "salah",
       "monedas": 62,
       "media": 90,
       "posicion": "Delantero",
       "nombre": "Salah"
     },
     {
-      "urlImg": 2131165386,
+      "urlImg": "vini",
       "monedas": 68,
       "media": 91,
       "posicion": "Delantero",
       "nombre": "Vini jr"
     },
     {
-      "urlImg": 2131165387,
+      "urlImg": "haaland",
       "monedas": 70,
       "media": 92,
       "posicion": "Delantero",
       "nombre": "Haaland"
     },
     {
-      "urlImg": 2131165388,
+      "urlImg": "lewandoski",
       "monedas": 16,
       "media": 86,
       "posicion": "Delantero",
