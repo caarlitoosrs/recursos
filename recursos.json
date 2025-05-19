@@ -1,0 +1,323 @@
+{
+  "equipos": [
+    {
+      "nombre": "Alcala",
+      "imagenResId": 2131165343,
+      "cancionResId": 2131230849,
+      "videoResId": 2131230850
+    },
+    {
+      "nombre": "Arsenal",
+      "imagenResId": 2131165344,
+      "cancionResId": 2131230851,
+      "videoResId": 2131230852
+    },
+    {
+      "nombre": "Milan",
+      "imagenResId": 2131165345,
+      "cancionResId": 2131230853,
+      "videoResId": 2131230854
+    },
+    {
+      "nombre": "Real Madrid",
+      "imagenResId": 2131165346,
+      "cancionResId": 2131230855,
+      "videoResId": 2131230856
+    },
+    {
+      "nombre": "Roma",
+      "imagenResId": 2131165347,
+      "cancionResId": 2131230857,
+      "videoResId": 2131230858
+    }
+  ],
+  "jugadores": [
+    {
+      "urlImg": 2131165348,
+      "monedas": 10,
+      "media": 82,
+      "posicion": "Portero",
+      "nombre": "Ramsdale"
+    },
+    {
+      "urlImg": 2131165349,
+      "monedas": 40,
+      "media": 88,
+      "posicion": "Portero",
+      "nombre": "Allison"
+    },
+    {
+      "urlImg": 2131165350,
+      "monedas": 50,
+      "media": 90,
+      "posicion": "Portero",
+      "nombre": "Curtois"
+    },
+    {
+      "urlImg": 2131165351,
+      "monedas": 18,
+      "media": 86,
+      "posicion": "Portero",
+      "nombre": "Gigi"
+    },
+    {
+      "urlImg": 2131165352,
+      "monedas": 21,
+      "media": 85,
+      "posicion": "Portero",
+      "nombre": "Ederson"
+    },
+    {
+      "urlImg": 2131165353,
+      "monedas": 12,
+      "media": 82,
+      "posicion": "Portero",
+      "nombre": "Dibu"
+    },
+    {
+      "urlImg": 2131165354,
+      "monedas": 8,
+      "media": 81,
+      "posicion": "Portero",
+      "nombre": "Maignan"
+    },
+    {
+      "urlImg": 2131165355,
+      "monedas": 36,
+      "media": 89,
+      "posicion": "Portero",
+      "nombre": "Oblak"
+    },
+    {
+      "urlImg": 2131165356,
+      "monedas": 14,
+      "media": 80,
+      "posicion": "Portero",
+      "nombre": "Onana"
+    },
+    {
+      "urlImg": 2131165357,
+      "monedas": 40,
+      "media": 88,
+      "posicion": "Portero",
+      "nombre": "Ter Stegen"
+    },
+    {
+      "urlImg": 2131165358,
+      "monedas": 16,
+      "media": 83,
+      "posicion": "Defensa",
+      "nombre": "Alaba"
+    },
+    {
+      "urlImg": 2131165359,
+      "monedas": 33,
+      "media": 87,
+      "posicion": "Defensa",
+      "nombre": "Trent"
+    },
+    {
+      "urlImg": 2131165360,
+      "monedas": 11,
+      "media": 79,
+      "posicion": "Defensa",
+      "nombre": "Asencio"
+    },
+    {
+      "urlImg": 2131165361,
+      "monedas": 7,
+      "media": 77,
+      "posicion": "Defensa",
+      "nombre": "Cancelo"
+    },
+    {
+      "urlImg": 2131165362,
+      "monedas": 23,
+      "media": 85,
+      "posicion": "Defensa",
+      "nombre": "Davies"
+    },
+    {
+      "urlImg": 2131165363,
+      "monedas": 15,
+      "media": 85,
+      "posicion": "Defensa",
+      "nombre": "Marquinhos"
+    },
+    {
+      "urlImg": 2131165364,
+      "monedas": 18,
+      "media": 86,
+      "posicion": "Defensa",
+      "nombre": "Militao"
+    },
+    {
+      "urlImg": 2131165365,
+      "monedas": 21,
+      "media": 86,
+      "posicion": "Defensa",
+      "nombre": "Dias"
+    },
+    {
+      "urlImg": 2131165366,
+      "monedas": 33,
+      "media": 88,
+      "posicion": "Defensa",
+      "nombre": "Rudiger"
+    },
+    {
+      "urlImg": 2131165367,
+      "monedas": 29,
+      "media": 86,
+      "posicion": "Defensa",
+      "nombre": "Theo"
+    },
+    {
+      "urlImg": 2131165368,
+      "monedas": 35,
+      "media": 89,
+      "posicion": "Defensa",
+      "nombre": "Van Dijk"
+    },
+    {
+      "urlImg": 2131165369,
+      "monedas": 45,
+      "media": 90,
+      "posicion": "Mediapunta",
+      "nombre": "Bellingham"
+    },
+    {
+      "urlImg": 2131165370,
+      "monedas": 25,
+      "media": 84,
+      "posicion": "Mediapunta",
+      "nombre": "Bruno"
+    },
+    {
+      "urlImg": 2131165371,
+      "monedas": 20,
+      "media": 88,
+      "posicion": "Mediapunta",
+      "nombre": "De Bruyne"
+    },
+    {
+      "urlImg": 2131165372,
+      "monedas": 47,
+      "media": 89,
+      "posicion": "Mediocampista",
+      "nombre": "Pedri"
+    },
+    {
+      "urlImg": 2131165373,
+      "monedas": 36,
+      "media": 87,
+      "posicion": "Mediocampista",
+      "nombre": "Kimmich"
+    },
+    {
+      "urlImg": 2131165374,
+      "monedas": 12,
+      "media": 85,
+      "posicion": "Mediocampista",
+      "nombre": "Modric"
+    },
+    {
+      "urlImg": 2131165375,
+      "monedas": 21,
+      "media": 86,
+      "posicion": "Mediapunta",
+      "nombre": "Odegaard"
+    },
+    {
+      "urlImg": 2131165376,
+      "monedas": 32,
+      "media": 87,
+      "posicion": "Mediocampista",
+      "nombre": "Rice"
+    },
+    {
+      "urlImg": 2131165377,
+      "monedas": 50,
+      "media": 90,
+      "posicion": "Mediocampista",
+      "nombre": "Rodri"
+    },
+    {
+      "urlImg": 2131165378,
+      "monedas": 44,
+      "media": 89,
+      "posicion": "Mediocampista",
+      "nombre": "Valverde"
+    },
+    {
+      "urlImg": 2131165379,
+      "monedas": 10,
+      "media": 83,
+      "posicion": "Delantero",
+      "nombre": "Benzema"
+    },
+    {
+      "urlImg": 2131165380,
+      "monedas": 18,
+      "media": 86,
+      "posicion": "Delantero",
+      "nombre": "Cristiano"
+    },
+    {
+      "urlImg": 2131165381,
+      "monedas": 15,
+      "media": 84,
+      "posicion": "Delantero",
+      "nombre": "Messi"
+    },
+    {
+      "urlImg": 2131165382,
+      "monedas": 26,
+      "media": 89,
+      "posicion": "Delantero",
+      "nombre": "Kane"
+    },
+    {
+      "urlImg": 2131165383,
+      "monedas": 29,
+      "media": 85,
+      "posicion": "Delantero",
+      "nombre": "Oshimen"
+    },
+    {
+      "urlImg": 2131165384,
+      "monedas": 70,
+      "media": 92,
+      "posicion": "Delantero",
+      "nombre": "Mbappe"
+    },
+    {
+      "urlImg": 2131165385,
+      "monedas": 62,
+      "media": 90,
+      "posicion": "Delantero",
+      "nombre": "Salah"
+    },
+    {
+      "urlImg": 2131165386,
+      "monedas": 68,
+      "media": 91,
+      "posicion": "Delantero",
+      "nombre": "Vini jr"
+    },
+    {
+      "urlImg": 2131165387,
+      "monedas": 70,
+      "media": 92,
+      "posicion": "Delantero",
+      "nombre": "Haaland"
+    },
+    {
+      "urlImg": 2131165388,
+      "monedas": 16,
+      "media": 86,
+      "posicion": "Delantero",
+      "nombre": "Lewandoski"
+    }
+  ]
+}
