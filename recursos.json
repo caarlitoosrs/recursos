@@ -180,7 +180,7 @@
       "nombre": "Van Dijk"
     },
     {
-      "urlImg": "bellingham",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/bellingham.webp",
       "monedas": 45,
       "media": 90,
       "posicion": "Mediapunta",
