@@ -33,7 +33,7 @@
   ],
   "jugadores": [
     {
-      "urlImg": "aaron",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/aaron.webp",
       "monedas": 10,
       "media": 82,
       "posicion": "Portero",
