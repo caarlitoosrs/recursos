@@ -215,7 +215,7 @@
       "nombre": "Kimmich"
     },
     {
-      "urlImg": "modric",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/modric.webp",
       "monedas": 12,
       "media": 85,
       "posicion": "Mediocampista",
