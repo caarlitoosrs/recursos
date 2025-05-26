@@ -75,7 +75,7 @@
       "nombre": "Dibu"
     },
     {
-      "urlImg": "maignan",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/maignan.webp",
       "monedas": 8,
       "media": 81,
       "posicion": "Portero",
