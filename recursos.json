@@ -271,7 +271,7 @@
       "nombre": "Messi"
     },
     {
-      "urlImg": "kane",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/kane.webp",
       "monedas": 26,
       "media": 89,
       "posicion": "Delantero",
