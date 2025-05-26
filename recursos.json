@@ -229,7 +229,7 @@
       "nombre": "Odegaard"
     },
     {
-      "urlImg": "rice",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/rice.webp",
       "monedas": 32,
       "media": 87,
       "posicion": "Mediocampista",
