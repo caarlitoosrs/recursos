@@ -264,7 +264,7 @@
       "nombre": "Cristiano"
     },
     {
-      "urlImg": "messi",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/messi.webp",
       "monedas": 15,
       "media": 84,
       "posicion": "Delantero",
