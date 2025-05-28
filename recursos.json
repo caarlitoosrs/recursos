@@ -47,28 +47,28 @@
       "nombre": "Allison"
     },
     {
-      "urlImg": "curtois",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/curtois.jpg",
       "monedas": 50,
       "media": 90,
       "posicion": "Portero",
       "nombre": "Curtois"
     },
     {
-      "urlImg": "donaruma",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/donaruma.jpg",
       "monedas": 18,
       "media": 86,
       "posicion": "Portero",
       "nombre": "Gigi"
     },
     {
-      "urlImg": "ederson",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/ederson.webp",
       "monedas": 21,
       "media": 85,
       "posicion": "Portero",
       "nombre": "Ederson"
     },
     {
-      "urlImg": "emiliano",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/emiliano.webp",
       "monedas": 12,
       "media": 82,
       "posicion": "Portero",
@@ -96,7 +96,7 @@
       "nombre": "Onana"
     },
     {
-      "urlImg": "terstegen",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/terstegen.png",
       "monedas": 40,
       "media": 88,
       "posicion": "Portero",
@@ -110,7 +110,7 @@
       "nombre": "Alaba"
     },
     {
-      "urlImg": "trent",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/trent.webp",
       "monedas": 33,
       "media": 87,
       "posicion": "Defensa",
@@ -131,49 +131,49 @@
       "nombre": "Cancelo"
     },
     {
-      "urlImg": "davies",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/davies.webp",
       "monedas": 23,
       "media": 85,
       "posicion": "Defensa",
       "nombre": "Davies"
     },
     {
-      "urlImg": "marqunhos",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/marqunhos.jpg",
       "monedas": 15,
       "media": 85,
       "posicion": "Defensa",
       "nombre": "Marquinhos"
     },
     {
-      "urlImg": "militao",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/militao.jpg",
       "monedas": 18,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Militao"
     },
     {
-      "urlImg": "ruben",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/ruben.webp",
       "monedas": 21,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Dias"
     },
     {
-      "urlImg": "rudiger",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/rudiger.png",
       "monedas": 33,
       "media": 88,
       "posicion": "Defensa",
       "nombre": "Rudiger"
     },
     {
-      "urlImg": "theo",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/theo.webp",
       "monedas": 29,
       "media": 86,
       "posicion": "Defensa",
       "nombre": "Theo"
     },
     {
-      "urlImg": "virgil",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/virgil.png",
       "monedas": 35,
       "media": 89,
       "posicion": "Defensa",
@@ -187,28 +187,28 @@
       "nombre": "Bellingham"
     },
     {
-      "urlImg": "fernandes",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/fernandes.webp",
       "monedas": 25,
       "media": 84,
       "posicion": "Mediapunta",
       "nombre": "Bruno"
     },
     {
-      "urlImg": "debruyne",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/debruyne.webp",
       "monedas": 20,
       "media": 88,
       "posicion": "Mediapunta",
       "nombre": "De Bruyne"
     },
     {
-      "urlImg": "pedri",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/pedri.jpg",
       "monedas": 47,
       "media": 89,
       "posicion": "Mediocampista",
       "nombre": "Pedri"
     },
     {
-      "urlImg": "kimmich",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/kimmich.webp",
       "monedas": 36,
       "media": 87,
       "posicion": "Mediocampista",
@@ -236,14 +236,14 @@
       "nombre": "Rice"
     },
     {
-      "urlImg": "rodri",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/rodri.webp",
       "monedas": 50,
       "media": 90,
       "posicion": "Mediocampista",
       "nombre": "Rodri"
     },
     {
-      "urlImg": "valverde",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/valverde.webp",
       "monedas": 44,
       "media": 89,
       "posicion": "Mediocampista",
@@ -257,7 +257,7 @@
       "nombre": "Benzema"
     },
     {
-      "urlImg": "cr7",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/cr7.webp",
       "monedas": 18,
       "media": 86,
       "posicion": "Delantero",
@@ -285,7 +285,7 @@
       "nombre": "Oshimen"
     },
     {
-      "urlImg": "mbappe",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/mbappe.jpg",
       "monedas": 70,
       "media": 92,
       "posicion": "Delantero",
@@ -299,7 +299,7 @@
       "nombre": "Salah"
     },
     {
-      "urlImg": "vini",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/vini.png",
       "monedas": 68,
       "media": 91,
       "posicion": "Delantero",
@@ -313,7 +313,7 @@
       "nombre": "Haaland"
     },
     {
-      "urlImg": "lewandoski",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/lewandoski.webp",
       "monedas": 16,
       "media": 86,
       "posicion": "Delantero",
