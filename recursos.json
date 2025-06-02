@@ -2,7 +2,7 @@
   "equipos": [
     {
       "nombre": "Alcala",
-      "imagenResId": "alcala",
+      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/alcala.webp",
       "cancionResId": "alcala",
       "videoResId": "videoalcala"
     },
