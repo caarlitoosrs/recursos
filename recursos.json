@@ -14,7 +14,7 @@
     },
     {
       "nombre": "Milan",
-      "imagenResId": "milan",
+      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/milan.webp",
       "cancionResId": "milan",
       "videoResId": "videomilan"
     },
