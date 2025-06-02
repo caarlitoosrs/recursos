@@ -26,7 +26,7 @@
     },
     {
       "nombre": "Roma",
-      "imagenResId": "roma",
+      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/roma.webp",
       "cancionResId": "roma",
       "videoResId": "videoroma"
     }
