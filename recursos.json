@@ -8,7 +8,7 @@
     },
     {
       "nombre": "Arsenal",
-      "imagenResId": "arsenal",
+      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/arsenal.webp",
       "cancionResId": "arsenal",
       "videoResId": "videoarsenal"
     },
