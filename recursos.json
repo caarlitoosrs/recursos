@@ -20,7 +20,7 @@
     },
     {
       "nombre": "Real Madrid",
-      "imagenResId": "realmadrid",
+      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/realmadrid.webp",
       "cancionResId": "rm",
       "videoResId": "videorm"
     },
