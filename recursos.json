@@ -2,31 +2,31 @@
   "equipos": [
     {
       "nombre": "Alcala",
-      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/alcala.webp",
+      "imagenResId": "alcala",
       "cancionResId": "alcala",
       "videoResId": "videoalcala"
     },
     {
       "nombre": "Arsenal",
-      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/arsenal.webp",
+      "imagenResId": "arsenal",
       "cancionResId": "arsenal",
       "videoResId": "videoarsenal"
     },
     {
       "nombre": "Milan",
-      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/milan.webp",
+      "imagenResId": "milan",
       "cancionResId": "milan",
       "videoResId": "videomilan"
     },
     {
       "nombre": "Real Madrid",
-      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/realmadrid.webp",
+      "imagenResId": "realmadrid",
       "cancionResId": "rm",
       "videoResId": "videorm"
     },
     {
       "nombre": "Roma",
-      "imagenResId": "https://raw.githubusercontent.com/caarlitoosrs/recursos/refs/heads/main/roma.webp",
+      "imagenResId": "roma",
       "cancionResId": "roma",
       "videoResId": "videoroma"
     }
