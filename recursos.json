@@ -47,14 +47,14 @@
       "nombre": "Allison"
     },
     {
-      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/curtois.jpg",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/main/curtois.jpg",
       "monedas": 50,
       "media": 90,
       "posicion": "Portero",
       "nombre": "Curtois"
     },
     {
-      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/donaruma.jpg",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/main/donaruma.jpg",
       "monedas": 18,
       "media": 86,
       "posicion": "Portero",
@@ -89,14 +89,14 @@
       "nombre": "Oblak"
     },
     {
-      "urlImg": "https://raw.githubusercontent.com/USER/REPO/main/archivo.png",
+      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/onana.png",
       "monedas": 14,
       "media": 80,
       "posicion": "Portero",
       "nombre": "Onana"
     },
     {
-      "urlImg": "https://github.com/caarlitoosrs/recursos/blob/main/terstegen.png",
+      "urlImg": "https://raw.githubusercontent.com/caarlitoosrs/recursos/main/terstegen.png",
       "monedas": 40,
       "media": 88,
       "posicion": "Portero",
